@@ -3,6 +3,11 @@ uuid = "f348b926-db64-4ac4-87b7-0b2cbcc8c216"
 authors = ["Chen Huang <chen1huang2@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Setfield = "efcf1570-3423-57d1-acb7-fd33fddbac46"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+UnPack = "3a884ed6-31ef-47d7-9d2a-63182c4928ed"
+
 [compat]
 julia = "1.5"
 
